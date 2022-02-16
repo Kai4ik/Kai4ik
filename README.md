@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, my name is Kai
+
+![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai4ik&show_icons=true&theme=cobalt)
 
 <!--
 **Kai4ik/Kai4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
