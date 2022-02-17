@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Kai
+## Aloha 👋, my name is Kai
 
 #### As someone said, you can hide your emotional state from your friends, therapist, even yourself, but you cannot hide it from Spotify. 
 #### So, here is my mood for today
