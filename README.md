@@ -9,7 +9,7 @@
 #### There is always room for improvement, right ? 
 #### Thus, I am working on myself, by myself, for myself.
 ![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai4ik&show_icons=true&theme=highcontrast&line_height=27&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai4ik&langs_count=3&card_width=480)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai4ik&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Toolkit
