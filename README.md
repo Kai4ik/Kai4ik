@@ -1,5 +1,7 @@
 ## Hi there 👋, my name is Kai
 
+[![Spotify](https://novatorem-seven-xi-30.vercel.app/api/spotify)](https://open.spotify.com/user/ggzcrv4z8r9lvb1wo34bzomgl)
+
 ### Key Stats
 
 ![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai4ik&show_icons=true&theme=highcontrast)
