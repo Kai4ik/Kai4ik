@@ -1,12 +1,12 @@
 ## Aloha 👋, my name is Kai
 
-#### As someone said, you can hide your emotional state from your friends, therapist, even yourself, but you cannot hide it from Spotify. 
+#### As someone said, you can hide your emotional state from your friends, therapist, and even yourself, but you cannot hide it from Spotify. 
 #### So, here is my mood for today
 [![Spotify](https://novatorem-seven-xi-30.vercel.app/api/spotify)](https://open.spotify.com/user/ggzcrv4z8r9lvb1wo34bzomgl)
 
 ## Key Stats
 
-#### There is always room for improvement, right ? 
+#### There is always room for improvement, right? 
 #### Therefore, I am working on myself, by myself, for myself.
 ![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai4ik&show_icons=true&theme=highcontrast&line_height=27&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai4ik&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
