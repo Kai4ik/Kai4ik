@@ -4,14 +4,6 @@
 #### So, here is my mood for today
 [![Spotify](https://novatorem-seven-xi-30.vercel.app/api/spotify)](https://open.spotify.com/user/ggzcrv4z8r9lvb1wo34bzomgl)
 
-## Key Stats
-
-#### There is always room for improvement, right? 
-#### Therefore, I am working on myself, by myself, for myself.
-![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai4ik&show_icons=true&theme=highcontrast&line_height=27&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai4ik&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Toolkit
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
